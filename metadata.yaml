@@ -1,0 +1,31 @@
+_repo: The-Delta-of-the-Triple-ElevensAmerican-Expeditionary-Forces_20468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bachman, William Elmer
+    gutenberg_agent_id: '9316'
+    url: http://www.gutenberg.org/2009/agents/9316
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20468'
+  lccn: '20014470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Field Artillery Battalion, 311th. Battery D'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- United States'
+- !lcc 'D501'
+title: 'The Delta of the Triple Elevens
+
+  The History of Battery D, 311th Field Artillery US Army,
+
+  American Expeditionary Forces'
+url: http://www.gutenberg.org/ebooks/20468
